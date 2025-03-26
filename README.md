@@ -37,10 +37,16 @@ To develop a complete **data infrastructure** and **ETL pipeline** that supports
 ## 🧩 Database Design
 
 ### Conceptual Model
-Based on Chen’s ER model, reflecting real-world entity relationships.
+Following is conceptual diagram based on Chen’s ER model, reflecting real-world entity relationships.
+
+![image](https://github.com/user-attachments/assets/ba3d948c-5114-4abe-87ea-44597cebaff3)
+
 
 ### Logical Model
-ERD diagram to visualize keys, attributes, and cardinalities.
+Following ERD diagram to visualize keys, attributes, and cardinalities.
+
+![erd_diagram](https://github.com/user-attachments/assets/e3f10637-76dd-41b3-ac86-9ae41b6ff104)
+
 
 ### Physical Model
 Structured with **MySQL** using normalized relational schema. Includes:
